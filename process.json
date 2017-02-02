@@ -1,0 +1,13 @@
+{
+  "apps" : [{
+    "name": "@simplycomplex/node-starter",
+    "script": ".",
+    "watch": false,
+    "env": {
+      "NODE_ENV": "development"
+    },
+    "env_production": {
+      "NODE_ENV": "production"
+    }
+  }]
+}
